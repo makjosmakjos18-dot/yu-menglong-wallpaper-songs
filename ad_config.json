@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "provider": "admob",
     "testMode": true,
 
