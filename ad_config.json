@@ -1,0 +1,39 @@
+{
+  "ads": {
+    "enabled": true,
+    "provider": "admob",
+    "testMode": true,
+
+    "banner": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/9214589741"
+    },
+
+    "interstitial": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/1033173712",
+      "interval": 3,
+      "minimumSeconds": 30
+    },
+
+    "native": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/2247696110"
+    },
+
+    "rewarded": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/5224354917"
+    },
+
+    "appOpen": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/9257395921"
+    },
+
+    "testDevices": [
+      "TEST_EMULATOR",
+      "ABCDEF0123456789ABCDEF0123456789"
+    ]
+  }
+}
