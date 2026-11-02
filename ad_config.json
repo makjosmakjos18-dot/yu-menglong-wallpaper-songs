@@ -12,8 +12,8 @@
     "interstitial": {
       "enabled": true,
       "unitId": "ca-app-pub-6179556445410335/5262429912",
-      "interval": 3,
-      "minimumSeconds": 60
+      "interval": 2,
+      "minimumSeconds": 40
     },
 
     "native": {
